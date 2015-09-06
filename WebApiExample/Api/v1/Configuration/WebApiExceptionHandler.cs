@@ -31,7 +31,7 @@ namespace WebApiExample.Api.v1.Configuration
 
             public Task<HttpResponseMessage> ExecuteAsync(CancellationToken cancellationToken)
             {
-                HttpResponseMessage response = Request.CreateErrorResponse(HttpStatusCode.InternalServerError, Exception);
+                HttpResponseMessage response = Request.CreateResponse(HttpStatusCode.InternalServerError, Exception);
                 response.RequestMessage = Request;
                 return Task.FromResult(response);
             }
