@@ -61,3 +61,6 @@ E:\Projects\Amadeus\WebApiExample\WebApiExample\WebApiExample\bin\System.Web.Htt
 E:\Projects\Amadeus\WebApiExample\WebApiExample\WebApiExample\obj\Debug\WebApiExample.dll
 E:\Projects\Amadeus\WebApiExample\WebApiExample\WebApiExample\obj\Debug\WebApiExample.pdb
 E:\Projects\Amadeus\WebApiExample\WebApiExample\WebApiExample\bin\WebApiExample.XML
+E:\Projects\Amadeus\WebApiExample\WebApiExample\WebApiExample\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+E:\Projects\Amadeus\WebApiExample\WebApiExample\WebApiExample\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Amadeus\WebApiExample\WebApiExample\WebApiExample\bin\System.IdentityModel.Tokens.Jwt.xml
